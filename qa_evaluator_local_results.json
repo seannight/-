@@ -1,0 +1,92 @@
+{
+  "basic_evaluation": [
+    {
+      "question": "未来校园智能应用专项赛的报名时间是什么时候？",
+      "answer": "未来校园智能应用专项赛的报名时间是2023年3月1日至3月15日。",
+      "scores": {
+        "relevance": 0.667,
+        "confidence": 0.6,
+        "completeness": 0.5,
+        "overall_score": 0.589
+      },
+      "passed": true
+    },
+    {
+      "question": "机器人工程挑战赛主要考察什么？",
+      "answer": "机器人工程挑战赛主要考察团队协作和机器人控制能力。",
+      "scores": {
+        "relevance": 0.833,
+        "confidence": 0.6,
+        "completeness": 0.5,
+        "overall_score": 0.644
+      },
+      "passed": true
+    },
+    {
+      "question": "介绍一下无人机主题赛的内容",
+      "answer": "可能是关于无人机编程和飞行控制的比赛，但我不太确定具体内容。",
+      "scores": {
+        "relevance": 0.053,
+        "confidence": 0.6,
+        "completeness": 0.5,
+        "overall_score": 0.384
+      },
+      "passed": true
+    },
+    {
+      "question": "人工智能赛道分为哪几个方向？",
+      "answer": "抱歉，我没有关于人工智能赛道具体分类的信息。",
+      "scores": {
+        "relevance": 0.154,
+        "confidence": 0.6,
+        "completeness": 0.5,
+        "overall_score": 0.418
+      },
+      "passed": true
+    }
+  ],
+  "context_evaluation": [
+    {
+      "question": "未来校园智能应用专项赛的报名时间是什么时候？",
+      "answer": "根据之前提到的信息，报名时间是3月1日至15日。",
+      "context": [
+        {
+          "role": "user",
+          "content": "请问未来校园比赛的举办地点在哪里？"
+        },
+        {
+          "role": "assistant",
+          "content": "未来校园智能应用专项赛在北京举办，时间是2023年4月，报名时间是3月1日至15日。"
+        }
+      ],
+      "scores": {
+        "relevance": 0.95,
+        "confidence": 0.6,
+        "completeness": 0.616,
+        "overall_score": 0.635
+      },
+      "passed": true
+    },
+    {
+      "question": "机器人挑战赛的奖金是多少？",
+      "answer": "根据我们之前讨论的内容，机器人挑战赛的奖金是15000元。",
+      "context": [
+        {
+          "role": "user",
+          "content": "机器人挑战赛有哪些规则？"
+        },
+        {
+          "role": "assistant",
+          "content": "机器人挑战赛要求参赛者在规定时间内完成特定任务，总奖金为15000元。"
+        }
+      ],
+      "scores": {
+        "relevance": 0.95,
+        "confidence": 0.6,
+        "completeness": 0.6,
+        "overall_score": 0.612
+      },
+      "passed": true
+    }
+  ]
+}

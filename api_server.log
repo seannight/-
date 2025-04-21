@@ -1,0 +1,2330 @@
+2025-04-02 14:16:00,299 - api_server - WARNING - 创建了演示界面目录: /demo/dashboard
+2025-04-02 14:16:00,322 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-02 14:45:01,171 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-02 14:45:01,172 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-02 14:45:01,188 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-02 14:45:03,702 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-02 14:45:03,703 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-02 14:45:03,729 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-03 13:37:00,133 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-03 13:37:00,134 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-03 13:37:00,157 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 01:59:40,641 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 01:59:40,642 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 01:59:40,661 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 01:59:47,979 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 01:59:47,979 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 01:59:47,993 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 01:59:52,573 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 01:59:52,573 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 01:59:52,587 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:00:59,285 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:00:59,285 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:00:59,298 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:01:18,984 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:01:18,985 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:01:18,999 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:02:29,053 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:02:29,054 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:02:29,067 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:02:54,741 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:02:54,741 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:02:54,754 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:03:46,695 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:03:46,696 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:03:46,713 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:04:23,425 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:04:23,425 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:04:23,437 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:04:33,604 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:04:33,605 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:04:33,617 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:04:34,685 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:04:34,685 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:04:34,698 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:04:49,724 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:04:49,725 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:04:49,738 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:05:00,486 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:05:00,487 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:05:00,499 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:06:32,612 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:06:32,612 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:06:32,627 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:06:42,529 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:06:42,529 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:06:42,542 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:08:34,411 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:08:34,412 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:08:34,431 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:09:05,904 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:09:05,904 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:09:05,918 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:29:04,971 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:29:04,972 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:29:04,992 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:29:06,981 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:29:06,981 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:29:06,995 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:29:19,776 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:29:19,777 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:29:19,790 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:29:23,511 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:29:23,511 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:29:23,535 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:29:25,102 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:29:25,102 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:29:25,119 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:29:40,104 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:29:40,105 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:29:40,118 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:30:04,564 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:30:04,565 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:30:04,579 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:30:19,445 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:30:19,446 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:30:19,458 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:30:25,098 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:30:25,099 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:30:25,113 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:30:28,301 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:30:28,301 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:30:28,315 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:30:37,932 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:30:37,933 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:30:37,945 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 02:58:18,119 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 02:58:18,120 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 02:58:18,136 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 14:57:58,021 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 14:57:58,023 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 14:57:58,055 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 14:58:28,060 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 14:58:28,061 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 14:58:28,078 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:00:21,325 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:00:21,326 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:00:21,340 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:00:51,568 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:00:51,569 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:00:51,608 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:00:54,720 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:00:54,721 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:00:54,741 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:01:05,203 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:01:05,203 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:01:05,218 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:01:50,728 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:01:50,728 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:01:50,742 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:03:23,168 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:03:23,169 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:03:23,193 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:03:25,409 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:03:25,410 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:03:25,424 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:03:28,105 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:03:28,106 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:03:28,119 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:07:16,903 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:07:16,903 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:07:16,920 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:08:14,836 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:08:14,837 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:08:14,852 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:08:18,106 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:08:18,106 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:08:18,121 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:08:20,253 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:08:20,254 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:08:20,269 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:11:06,097 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:11:06,097 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:11:06,117 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:11:09,976 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:11:09,976 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:11:09,993 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:12:23,925 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:12:23,925 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:12:23,939 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:12:41,090 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:12:41,090 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:12:41,104 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:13:07,036 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:13:07,037 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:13:07,058 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:13:13,314 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:13:13,314 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:13:13,327 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:15:18,877 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:15:18,878 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:15:18,893 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:15:20,704 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:15:20,705 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:15:20,718 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:15:49,899 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:15:49,899 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:15:49,912 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:18:02,395 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:18:02,396 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:18:02,412 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:18:04,177 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:18:04,178 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:18:04,191 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:18:07,586 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:18:07,587 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:18:07,602 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:18:08,694 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:18:08,695 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:18:08,709 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:18:13,047 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:18:13,047 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:18:13,061 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:19:45,573 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:19:45,574 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:19:45,588 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:20:06,957 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:20:06,958 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:20:06,972 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:20:10,621 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:20:10,622 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:20:10,635 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:22:07,475 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:22:07,476 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:22:07,494 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:22:09,776 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:22:09,777 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:22:09,790 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:23:17,305 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:23:17,306 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:23:17,325 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-04 15:23:19,358 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-04 15:23:19,359 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-04 15:23:19,373 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:33:21,789 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:33:21,791 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:33:21,810 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:33:24,668 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:33:24,669 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:33:24,695 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:33:51,001 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:33:51,002 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:33:51,027 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:34:03,870 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:34:03,871 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:34:03,896 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:34:06,425 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:34:06,426 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:34:06,452 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:34:25,305 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:34:25,307 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:34:25,332 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:34:27,680 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:34:27,681 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:34:27,705 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:38:22,397 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:38:22,398 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:38:22,413 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:38:25,628 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:38:25,628 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:38:25,643 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:38:28,447 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:38:28,448 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:38:28,487 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:38:29,983 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:38:29,983 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:38:29,996 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:39:10,153 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:39:10,154 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:39:10,169 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:41:18,938 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:41:18,939 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:41:18,953 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:45:53,394 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:45:53,395 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:45:53,408 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:45:58,512 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:45:58,512 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:45:58,528 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:46:06,765 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:46:06,766 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:46:06,779 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:46:23,090 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:46:23,091 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:46:23,105 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:47:20,349 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:47:20,350 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:47:20,363 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:47:23,338 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:47:23,339 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:47:23,354 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:47:25,276 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:47:25,277 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:47:25,291 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:47:28,064 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:47:28,065 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:47:28,078 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:47:30,808 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:47:30,809 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:47:30,825 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:47:32,400 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:47:32,401 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:47:32,413 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:52:04,814 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:52:04,815 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:52:04,828 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:52:23,649 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:52:23,650 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:52:23,664 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:52:24,819 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:52:24,819 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:52:24,832 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:52:26,049 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:52:26,049 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:52:26,062 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:52:27,269 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:52:27,270 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:52:27,284 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:52:28,842 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:52:28,842 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:52:28,856 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:52:39,164 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:52:39,165 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:52:39,177 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:54:43,099 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:54:43,099 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:54:43,113 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:54:44,521 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:54:44,521 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:54:44,534 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:54:55,071 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:54:55,072 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:54:55,087 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:55:10,048 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:55:10,049 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:55:10,062 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 15:55:13,869 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 15:55:13,869 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 15:55:13,882 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:07:49,421 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:07:49,421 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:07:49,435 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:07:58,620 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:07:58,621 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:07:58,634 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:08:54,037 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:08:54,037 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:08:54,051 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:11:16,971 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:11:16,972 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:11:16,985 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:13:35,127 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:13:35,128 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:13:35,146 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:13:37,466 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:13:37,466 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:13:37,480 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:13:40,307 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:13:40,307 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:13:40,320 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:13:42,636 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:13:42,637 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:13:42,650 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:13:47,017 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:13:47,018 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:13:47,032 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:13:59,211 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:13:59,212 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:13:59,230 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:15:14,132 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:15:14,133 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:15:14,146 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:15:36,452 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:15:36,452 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:15:36,469 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:19:35,360 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:19:35,361 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:19:35,373 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:27:46,641 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:27:46,642 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:27:46,658 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:27:54,589 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:27:54,590 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:27:54,603 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:28:07,673 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:28:07,674 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:28:07,689 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:28:52,931 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:28:52,932 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:28:52,945 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:29:50,814 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:29:50,814 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:29:50,830 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:29:51,960 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:29:51,961 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:29:51,976 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:30:04,045 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:30:04,046 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:30:04,059 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:30:41,988 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:30:41,989 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:30:42,003 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:30:45,633 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:30:45,633 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:30:45,647 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:30:48,433 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:30:48,434 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:30:48,448 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:30:52,091 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:30:52,092 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:30:52,106 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:33:36,613 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:33:36,614 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:33:36,629 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:34:53,949 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:34:53,949 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:34:53,963 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:35:03,693 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:35:03,694 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:35:03,707 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:35:28,590 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:35:28,590 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:35:28,603 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:35:43,707 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:35:43,708 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:35:43,721 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:35:51,141 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:35:51,142 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:35:51,156 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:36:30,887 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:36:30,888 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:36:30,901 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:36:48,916 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:36:48,917 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:36:48,930 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:36:52,593 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:36:52,594 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:36:52,607 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:41:40,547 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:41:40,547 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:41:40,563 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 16:42:24,116 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-05 16:42:24,116 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-05 16:42:24,131 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 01:43:20,098 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 01:43:20,099 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 01:43:20,113 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 01:43:46,105 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 01:43:46,106 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 01:43:46,119 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 01:47:02,262 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 01:47:02,263 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 01:47:02,284 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 01:47:03,931 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 01:47:03,932 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 01:47:03,944 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 01:48:11,340 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 01:48:11,340 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 01:48:11,354 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 01:50:23,934 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 01:50:23,935 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 01:50:23,951 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 01:50:25,871 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 01:50:25,872 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 01:50:25,892 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 01:50:48,716 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 01:50:48,717 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 01:50:48,730 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 01:59:23,210 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 01:59:23,211 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 01:59:23,226 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:00:30,677 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:00:30,678 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:00:30,694 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:08:21,637 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:08:21,637 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:08:21,651 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:14:08,146 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:14:08,147 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:14:08,161 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:14:11,558 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:14:11,559 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:14:11,573 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:15:19,737 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:15:19,738 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:15:19,752 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:15:21,720 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:15:21,720 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:15:21,735 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:16:20,941 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:16:20,942 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:16:20,957 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:16:25,062 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:16:25,063 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:16:25,078 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:17:30,829 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:17:30,830 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:17:30,845 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:17:33,273 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:17:33,274 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:17:33,298 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:20:44,001 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:20:44,001 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:20:44,016 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 02:20:47,372 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-06 02:20:47,372 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-06 02:20:47,388 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-06 10:21:35,000 - api_server - INFO - ���ҵ���ʾ����Ŀ¼: D:\teddy-cup\demo\dashboard
+2025-04-06 10:21:35,001 - api_server - INFO - �����þ�̬�ļ����� - ���� http://localhost/dashboard �鿴��ʾ����
+2025-04-07 13:45:38,540 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 13:45:38,541 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 13:45:38,570 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 13:45:52,493 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 13:45:52,494 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 13:45:52,508 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 13:47:55,635 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 13:47:55,636 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 13:47:55,649 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:28:42,074 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:28:42,075 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:28:42,089 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:28:44,645 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:28:44,646 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:28:44,659 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:32:17,668 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:32:17,669 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:32:17,681 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:32:25,376 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:32:25,376 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:32:25,390 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:32:54,115 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:32:54,115 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:32:54,133 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:38:48,065 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:38:48,066 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:38:48,080 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:38:55,602 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:38:55,602 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:38:55,616 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:38:56,784 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:38:56,784 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:38:56,798 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:39:09,036 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:39:09,037 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:39:09,050 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:39:18,601 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:39:18,601 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:39:18,617 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:39:19,727 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:39:19,728 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:39:19,745 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:39:31,323 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:39:31,324 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:39:31,338 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:39:45,980 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:39:45,981 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:39:45,995 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:39:51,644 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:39:51,645 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:39:51,663 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:39:54,299 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:39:54,300 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:39:54,313 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:39:55,394 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:39:55,394 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:39:55,407 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:40:02,648 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:40:02,649 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:40:02,666 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:40:05,886 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:40:05,887 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:40:05,900 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:40:11,929 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:40:11,930 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:40:11,945 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:40:18,375 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:40:18,375 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:40:18,392 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:40:21,140 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:40:21,141 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:40:21,154 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:40:24,123 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:40:24,124 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:40:24,138 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:40:26,458 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:40:26,458 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:40:26,473 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:40:35,190 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:40:35,191 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:40:35,203 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:44:25,632 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:44:25,633 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:44:25,646 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:44:28,031 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:44:28,031 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:44:28,046 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:44:34,146 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:44:34,147 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:44:34,159 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:44:39,052 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:44:39,052 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:44:39,066 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:45:11,628 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:45:11,628 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:45:11,641 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:45:15,560 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:45:15,561 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:45:15,575 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:45:17,567 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:45:17,567 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:45:17,580 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-07 14:45:27,458 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-07 14:45:27,459 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-07 14:45:27,471 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:02:24,685 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:02:24,686 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:02:24,700 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:02:27,308 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:02:27,309 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:02:27,323 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:03:35,565 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:03:35,566 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:03:35,579 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:03:58,302 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:03:58,302 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:03:58,315 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:13:58,594 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:13:58,595 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:13:58,608 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:14:00,618 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:14:00,619 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:14:00,640 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:15:06,196 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:15:06,196 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:15:06,209 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:16:13,225 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:16:13,225 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:16:13,239 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:16:20,234 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:16:20,235 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:16:20,248 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:16:21,361 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:16:21,362 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:16:21,374 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:16:38,625 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:16:38,626 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:16:38,641 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:16:51,484 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:16:51,485 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:16:51,498 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:16:53,525 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:16:53,526 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:16:53,541 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:17:47,516 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:17:47,517 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:17:47,533 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:18:06,506 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:18:06,507 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:18:06,522 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:18:13,474 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:18:13,474 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:18:13,487 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:18:36,053 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:18:36,053 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:18:36,068 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:18:45,573 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:18:45,573 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:18:45,586 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:18:46,733 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:18:46,733 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:18:46,745 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:23:19,687 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:23:19,688 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:23:19,700 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:27:51,207 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:27:51,208 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:27:51,222 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:27:53,120 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:27:53,121 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:27:53,133 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:27:55,905 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:27:55,906 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:27:55,919 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:28:35,650 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:28:35,650 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:28:35,665 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:28:40,789 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:28:40,790 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:28:40,805 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:33:05,621 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:33:05,622 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:33:05,636 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:33:37,099 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:33:37,099 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:33:37,113 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:33:54,870 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:33:54,871 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:33:54,886 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:34:01,512 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:34:01,513 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:34:01,527 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:34:07,030 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:34:07,031 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:34:07,043 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:34:09,446 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:34:09,446 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:34:09,459 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:34:11,776 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:34:11,776 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:34:11,789 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:34:56,293 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:34:56,294 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:34:56,307 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:35:43,116 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:35:43,117 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:35:43,130 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:35:44,210 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:35:44,210 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:35:44,225 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:36:13,638 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:36:13,638 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:36:13,652 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:36:33,140 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:36:33,140 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:36:33,153 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:36:40,188 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:36:40,188 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:36:40,203 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:36:43,232 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:36:43,233 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:36:43,252 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:38:05,604 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:38:05,605 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:38:05,618 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:40:56,557 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:40:56,558 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:40:56,571 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:40:58,412 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:40:58,413 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:40:58,426 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:41:01,497 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:41:01,497 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:41:01,510 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:41:03,878 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:41:03,879 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:41:03,892 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:42:07,086 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:42:07,087 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:42:07,102 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:42:10,641 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:42:10,642 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:42:10,655 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:42:14,223 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:42:14,224 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:42:14,244 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:42:15,474 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:42:15,475 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:42:15,488 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:42:46,394 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:42:46,395 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:42:46,408 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:43:44,552 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:43:44,553 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:43:44,568 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:43:49,594 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:43:49,594 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:43:49,607 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:44:07,874 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:44:07,875 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:44:07,889 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:49:41,199 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:49:41,200 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:49:41,213 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:49:49,265 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:49:49,266 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:49:49,282 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:49:51,667 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:49:51,668 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:49:51,682 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:49:53,596 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:49:53,597 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:49:53,608 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:49:55,572 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:49:55,572 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:49:55,586 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:57:16,916 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:57:16,917 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:57:16,929 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:58:03,521 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:58:03,521 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:58:03,535 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:58:07,000 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:58:07,001 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:58:07,014 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:58:08,957 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:58:08,957 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:58:08,974 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:58:14,054 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:58:14,055 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:58:14,068 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 12:58:31,704 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 12:58:31,705 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 12:58:31,719 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:00:10,434 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:00:10,434 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:00:10,447 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:00:14,613 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:00:14,614 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:00:14,626 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:00:27,621 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:00:27,622 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:00:27,637 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:00:35,096 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:00:35,096 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:00:35,111 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:01:07,604 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:01:07,605 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:01:07,619 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:01:52,093 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:01:52,094 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:01:52,108 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:01:53,886 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:01:53,887 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:01:53,900 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:01:57,802 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:01:57,802 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:01:57,815 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:02:00,172 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:02:00,173 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:02:00,190 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:02:06,491 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:02:06,492 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:02:06,505 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:02:32,395 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:02:32,396 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:02:32,409 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:03:27,825 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:03:27,826 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:03:27,839 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:03:30,959 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:03:30,960 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:03:30,974 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:03:32,405 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:03:32,405 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:03:32,418 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:03:34,739 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:03:34,739 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:03:34,753 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:05:34,916 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:05:34,917 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:05:34,934 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:05:36,395 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:05:36,396 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:05:36,410 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:57:38,918 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:57:38,919 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:57:38,939 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:58:13,073 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:58:13,074 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:58:13,087 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:58:20,383 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:58:20,384 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:58:20,395 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:58:52,577 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:58:52,577 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:58:52,588 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 13:59:50,074 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 13:59:50,074 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 13:59:50,086 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:00:10,048 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:00:10,049 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:00:10,061 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:00:11,151 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:00:11,151 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:00:11,162 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:00:54,177 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:00:54,178 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:00:54,189 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:01:22,883 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:01:22,883 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:01:22,897 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:01:38,054 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:01:38,055 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:01:38,070 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:01:38,773 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:01:38,774 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:01:38,785 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:02:27,431 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:02:27,432 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:02:27,444 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:02:30,450 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:02:30,451 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:02:30,463 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:02:54,013 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:02:54,013 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:02:54,025 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:03:02,765 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:03:02,766 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:03:02,777 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:03:28,117 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:03:28,117 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:03:28,129 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:03:52,212 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:03:52,213 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:03:52,224 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:03:53,332 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:03:53,332 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:03:53,343 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:04:14,925 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:04:14,925 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:04:14,940 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:04:20,146 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:04:20,147 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:04:20,159 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:04:20,913 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:04:20,914 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:04:20,929 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:04:21,995 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:04:21,995 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:04:22,006 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:04:51,867 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:04:51,868 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:04:51,880 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:04:53,664 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:04:53,665 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:04:53,677 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:05:17,609 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:05:17,610 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:05:17,622 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:05:41,361 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:05:41,361 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:05:41,377 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:05:49,814 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:05:49,815 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:05:49,826 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:05:51,051 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:05:51,052 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:05:51,063 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:06:16,101 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:06:16,102 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:06:16,112 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:06:23,042 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:06:23,042 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:06:23,056 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:06:25,427 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:06:25,427 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:06:25,439 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:06:26,190 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:06:26,191 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:06:26,202 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:06:45,640 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:06:45,641 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:06:45,652 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:06:46,862 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:06:46,863 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:06:46,874 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:07:17,957 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:07:17,958 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:07:17,970 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:08:36,217 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:08:36,217 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:08:36,229 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:08:37,155 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:08:37,156 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:08:37,168 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:09:41,349 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:09:41,350 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:09:41,362 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:10:04,414 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:10:04,415 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:10:04,426 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:10:05,569 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:10:05,570 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:10:05,580 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-08 14:12:19,513 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:12:19,514 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:12:55,371 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:12:55,372 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:13:45,385 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:13:45,386 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:13:53,935 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:13:53,935 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:14:05,624 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:14:05,625 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:14:06,426 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:14:06,427 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:14:42,056 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:14:42,057 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:14:43,706 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:14:43,706 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:42:19,961 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:42:19,962 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:43:08,564 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:43:08,565 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:43:11,001 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:43:11,002 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:43:51,291 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:43:51,292 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:43:52,028 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:43:52,029 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:45:14,681 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:45:14,682 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:46:49,977 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:46:49,977 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:49:16,554 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:49:16,555 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:50:05,498 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:50:05,498 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:50:06,252 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:50:06,253 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:51:07,493 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:51:07,494 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-08 14:51:13,664 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-08 14:51:13,664 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 12:54:39,325 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 12:54:39,326 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 12:54:43,867 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 12:54:43,868 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 12:58:44,927 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 12:58:44,928 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 12:59:08,037 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 12:59:08,037 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 12:59:43,027 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 12:59:43,028 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 12:59:44,662 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 12:59:44,663 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 12:59:48,085 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 12:59:48,086 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:00:16,199 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 13:00:16,200 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:00:33,682 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 13:00:33,683 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:01:04,907 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 13:01:04,907 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:03:32,739 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 13:03:32,739 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:04:35,817 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 13:04:35,817 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:04:45,941 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 13:04:45,941 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:12:36,176 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 13:12:36,177 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:18:22,017 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 13:18:22,018 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:18:22,112 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-09 13:22:31,712 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 13:22:31,713 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:22:31,778 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-09 13:23:29,979 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-09 13:23:29,980 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-09 13:23:30,047 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-10 13:40:09,936 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-10 13:40:09,937 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-10 13:40:10,020 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-10 13:40:10,797 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-10 13:40:10,797 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-10 13:40:10,854 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-10 14:00:08,054 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-10 14:00:08,055 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-10 14:00:08,107 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-10 14:01:12,020 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-10 14:01:12,021 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-10 14:01:12,071 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-10 14:06:47,992 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-10 14:06:47,993 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-10 14:06:48,050 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-10 14:06:48,752 - api_server - INFO - 已找到演示界面目录: /demo/dashboard
+2025-04-10 14:06:48,752 - api_server - INFO - 已启用静态文件服务 - 访问 http://localhost/dashboard 查看演示界面
+2025-04-10 14:06:48,804 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+

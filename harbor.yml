@@ -1,0 +1,20 @@
+# 修改为你的域名或IP地址
+hostname: localhost
+
+# 取消HTTPS配置的注释并配置证书（如果需要HTTPS）
+# https:
+#   port: 443
+#   certificate: /your/certificate/path
+#   private_key: /your/private/key/path
+
+# 设置管理员密码
+harbor_admin_password: Harbor12345
+
+# 开发环境示例
+services:
+  api:
+    image: localhost:5000/teddy_cup/api:latest
+    # 或者使用build指令，然后推送
+    build:
+      context: ../../
+      dockerfile: docker/dev/Dockerfile.api

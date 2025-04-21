@@ -1,0 +1,95 @@
+<!--
+ * 文件名：demo/index.html
+ * 功能描述：泰迪杯智能客服系统演示目录重定向页面
+ * 
+ * 本页面作为演示目录的入口，自动将用户重定向到dashboard目录下的首页，优化用户导航体验。
+ * 主要功能：
+ * 1. 自动重定向到 dashboard/index.html 
+ * 2. 提供加载动画，减少用户等待焦虑
+ * 3. 当自动重定向失败时，提供备用手动跳转链接
+ * 4. 保持与主入口页面一致的视觉设计和用户体验
+ * 
+ * 技术特点：
+ * - 使用meta refresh标签实现无缝重定向
+ * - 应用CSS3动画提升用户体验
+ * - 响应式设计确保跨设备兼容性
+ * - 与系统其他页面保持视觉一致性
+ -->
+ 
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <!-- 基本元数据设置：字符集、视口和标题 -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>泰迪杯智能客服系统 - 重定向中</title>
+    <!-- 自动重定向设置：0秒后跳转到dashboard页面 -->
+    <meta http-equiv="refresh" content="0;url=dashboard/index.html">
+    <!-- 页面样式：定义重定向等待页面的布局和视觉效果 -->
+    <style>
+        /* 全局样式：使用现代无衬线字体，居中布局 */
+        body {
+            font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f8f9fa;
+        }
+        /* 容器样式：限制内容宽度，确保在各种屏幕尺寸上的良好显示 */
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        /* 标题样式：使用品牌蓝色，增强视觉识别度 */
+        h1 {
+            color: #0d6efd;
+            margin-bottom: 20px;
+        }
+        /* 段落样式：使用柔和的灰色，提高阅读舒适度 */
+        p {
+            color: #6c757d;
+            margin-bottom: 30px;
+        }
+        /* 链接样式：视觉突出并具有交互反馈 */
+        a {
+            color: #0d6efd;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        /* 加载动画样式：创建旋转的圆形加载指示器提供视觉反馈 */
+        .spinner {
+            width: 40px;
+            height: 40px;
+            margin: 0 auto 20px;
+            border: 4px solid rgba(0, 0, 0, 0.1);
+            border-top-color: #0d6efd;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        /* 定义旋转动画：实现平滑的360度旋转效果 */
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <!-- 主内容容器 -->
+    <div class="container">
+        <!-- 加载动画指示器 -->
+        <div class="spinner"></div>
+        <!-- 页面标题 -->
+        <h1>泰迪杯智能客服系统</h1>
+        <!-- 重定向状态提示 -->
+        <p>正在重定向到演示界面，请稍候...</p>
+        <!-- 备用跳转链接 -->
+        <p>如果页面没有自动跳转，请<a href="dashboard/index.html">点击这里</a>。</p>
+    </div>
+</body>
+</html> 

@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>泰迪杯智能客服 - 知识图谱可视化</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vis-network@9.1.2/dist/dist/vis-network.min.css">
+    <style>
+        body {
+            font-family: 'Microsoft YaHei', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+        }
+        .header {
+            background-color: #0078d4;
+            color: white;
+            padding: 15px 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .container {
+            max-width: 1400px;
+        }
+        .card {
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            margin-bottom: 20px;
+        }
+        .card-header {
+            background-color: #f1f3f5;
+            font-weight: 600;
+        }
+        #graph-container {
+            height: 600px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #fcfcfc;
+        }
+        .legend {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: white;
+            margin-bottom: 15px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+        .competition { background-color: #f54842; }
+        .time { background-color: #4287f5; }
+        .organization { background-color: #42f59e; }
+        .location { background-color: #f5d142; }
+        .person { background-color: #a142f5; }
+        
+        #search-results {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .entity-item {
+            cursor: pointer;
+            padding: 8px 12px;
+            border-bottom: 1px solid #eee;
+            transition: background-color 0.2s;
+        }
+        .entity-item:hover {
+            background-color: #f5f5f5;
+        }
+        .badge-competition { background-color: #f54842; }
+        .badge-time { background-color: #4287f5; }
+        .badge-organization { background-color: #42f59e; color: #333; }
+        .badge-location { background-color: #f5d142; color: #333; }
+        .badge-person { background-color: #a142f5; }
+        
+        .relation-filter {
+            margin-bottom: 8px;
+        }
+        
+        .entity-details {
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            margin-top: 15px;
+            border: 1px solid #ddd;
+        }
+        
+        .loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1000;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .nav-link.active {
+            font-weight: bold;
+            color: #0078d4 !important;
+        }
+    </style>
+</head>
+<body>
+    <!-- 导航栏 -->
+    <div class="header">
+        <div class="container">
+            <div class="d-flex justify-content-between align-items-center">
+                <h3 class="mb-0">泰迪杯智能客服系统</h3>
+                <nav>
+                    <ul class="nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/dashboard">首页</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/qa-demo">智能问答</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/tables-demo">表格数据</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white active" href="/knowledge-graph">知识图谱</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <!-- 左侧控制面板 -->
+            <div class="col-md-3">
+                <!-- 搜索框 -->
+                <div class="card">
+                    <div class="card-header">实体搜索</div>
+                    <div class="card-body">
+                        <div class="input-group mb-3">
+                            <input type="text" id="search-input" class="form-control" placeholder="输入实体名称...">
+                            <button class="btn btn-primary" id="search-btn">搜索</button>
+                        </div>
+                        <div id="search-results">
+                            <!-- 搜索结果将在这里显示 -->
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 图例 -->
+                <div class="card">
+                    <div class="card-header">图例</div>
+                    <div class="card-body">
+                        <div class="legend">
+                            <div class="legend-item">
+                                <div class="legend-color competition"></div>
+                                <span>竞赛</span>
+                            </div>
+                            <div class="legend-item">
+                                <div class="legend-color time"></div>
+                                <span>时间</span>
+                            </div>
+                            <div class="legend-item">
+                                <div class="legend-color organization"></div>
+                                <span>组织机构</span>
+                            </div>
+                            <div class="legend-item">
+                                <div class="legend-color location"></div>
+                                <span>地点</span>
+                            </div>
+                            <div class="legend-item">
+                                <div class="legend-color person"></div>
+                                <span>人物</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 关系过滤 -->
+                <div class="card">
+                    <div class="card-header">关系过滤</div>
+                    <div class="card-body">
+                        <div class="relation-filter">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="relation-time" checked>
+                                <label class="form-check-label" for="relation-time">
+                                    举办时间
+                                </label>
+                            </div>
+                        </div>
+                        <div class="relation-filter">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="relation-org" checked>
+                                <label class="form-check-label" for="relation-org">
+                                    主办方
+                                </label>
+                            </div>
+                        </div>
+                        <div class="relation-filter">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="relation-location" checked>
+                                <label class="form-check-label" for="relation-location">
+                                    举办地点
+                                </label>
+                            </div>
+                        </div>
+                        <div class="relation-filter">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="relation-topic" checked>
+                                <label class="form-check-label" for="relation-topic">
+                                    赛事主题
+                                </label>
+                            </div>
+                        </div>
+                        <button class="btn btn-outline-primary btn-sm w-100" id="apply-filters">应用过滤</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 右侧图谱展示 -->
+            <div class="col-md-9">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span>竞赛知识图谱可视化</span>
+                        <div>
+                            <button class="btn btn-sm btn-outline-secondary" id="zoom-in">放大</button>
+                            <button class="btn btn-sm btn-outline-secondary" id="zoom-out">缩小</button>
+                            <button class="btn btn-sm btn-outline-primary" id="reset-view">重置视图</button>
+                        </div>
+                    </div>
+                    <div class="card-body p-0 position-relative">
+                        <div id="loading" class="loading d-none">
+                            <div class="spinner-border text-primary" role="status">
+                                <span class="visually-hidden">加载中...</span>
+                            </div>
+                            <span class="ms-2">加载知识图谱中...</span>
+                        </div>
+                        <div id="graph-container"></div>
+                    </div>
+                </div>
+                
+                <!-- 实体详情 -->
+                <div id="entity-details" class="entity-details d-none">
+                    <h5 id="entity-title">实体详情</h5>
+                    <div id="entity-content">
+                        <!-- 实体详情内容 -->
+                    </div>
+                </div>
+                
+                <!-- 相关问题 -->
+                <div class="card mt-3">
+                    <div class="card-header">相关问题</div>
+                    <div class="card-body">
+                        <div id="related-questions">
+                            <!-- 相关问题列表 -->
+                            <div class="alert alert-info">
+                                选择一个实体以查看相关问题
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 脚本 -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vis-network@9.1.2/dist/vis-network.min.js"></script>
+    <script>
+        // 加载动画
+        function showLoading() {
+            document.getElementById('loading').classList.remove('d-none');
+        }
+        
+        function hideLoading() {
+            document.getElementById('loading').classList.add('d-none');
+        }
+        
+        // 网络图实例
+        let network = null;
+        let graphData = {
+            nodes: [],
+            edges: []
+        };
+        
+        // 颜色映射
+        const colorMap = {
+            'competition': '#f54842',
+            'time': '#4287f5',
+            'organization': '#42f59e',
+            'location': '#f5d142',
+            'person': '#a142f5',
+            'unknown': '#808080'
+        };
+        
+        // 初始化网络图
+        function initNetwork(data) {
+            const container = document.getElementById('graph-container');
+            
+            // 创建节点和边
+            const nodes = new vis.DataSet(data.nodes.map(node => ({
+                id: node.id,
+                label: node.label,
+                group: node.group,
+                color: {
+                    background: colorMap[node.group] || colorMap.unknown,
+                    border: '#ffffff',
+                    highlight: {
+                        background: colorMap[node.group] || colorMap.unknown,
+                        border: '#000000'
+                    }
+                },
+                font: {
+                    color: node.group === 'organization' || node.group === 'location' ? '#333333' : '#ffffff'
+                },
+                size: node.group === 'competition' ? 30 : 20
+            })));
+            
+            const edges = new vis.DataSet(data.edges.map(edge => ({
+                from: edge.from,
+                to: edge.to,
+                label: edge.label,
+                arrows: 'to',
+                color: { color: '#666666', highlight: '#000000' },
+                font: { size: 12 }
+            })));
+            
+            // 配置选项
+            const options = {
+                nodes: {
+                    shape: 'dot',
+                    borderWidth: 2,
+                    shadow: true
+                },
+                edges: {
+                    width: 2,
+                    shadow: true,
+                    smooth: {
+                        type: 'continuous'
+                    }
+                },
+                physics: {
+                    stabilization: {
+                        iterations: 100
+                    },
+                    barnesHut: {
+                        gravitationalConstant: -5000,
+                        centralGravity: 0.3,
+                        springLength: 200,
+                        springConstant: 0.04
+                    }
+                },
+                interaction: {
+                    hover: true,
+                    tooltipDelay: 300,
+                    navigationButtons: true,
+                    keyboard: true
+                }
+            };
+            
+            // 创建网络
+            network = new vis.Network(container, { nodes, edges }, options);
+            
+            // 事件监听
+            network.on("selectNode", function(params) {
+                if (params.nodes.length > 0) {
+                    const nodeId = params.nodes[0];
+                    showEntityDetails(nodeId);
+                    showRelatedQuestions(nodeId);
+                }
+            });
+            
+            network.on("deselectNode", function() {
+                hideEntityDetails();
+                hideRelatedQuestions();
+            });
+            
+            return { network, nodes, edges };
+        }
+        
+        // 显示实体详情
+        function showEntityDetails(nodeId) {
+            const detailsSection = document.getElementById('entity-details');
+            const titleElement = document.getElementById('entity-title');
+            const contentElement = document.getElementById('entity-content');
+            
+            // 从API获取实体详情
+            showLoading();
+            
+            // 模拟API调用
+            setTimeout(() => {
+                const node = graphData.nodes.find(n => n.id === nodeId);
+                
+                if (node) {
+                    titleElement.textContent = node.label;
+                    
+                    // 获取与该实体相关的边
+                    const relatedEdges = graphData.edges.filter(e => e.from === nodeId || e.to === nodeId);
+                    
+                    let content = `<div class="mb-3">
+                        <span class="badge badge-${node.group}">${node.group}</span>
+                    </div>
+                    <div class="mb-3">
+                        <h6>关系列表：</h6>
+                        <ul class="list-group">`;
+                    
+                    if (relatedEdges.length > 0) {
+                        relatedEdges.forEach(edge => {
+                            const isSource = edge.from === nodeId;
+                            const otherNode = graphData.nodes.find(n => n.id === (isSource ? edge.to : edge.from));
+                            
+                            content += `<li class="list-group-item">
+                                ${isSource ? `<strong>${edge.label}</strong> → ${otherNode.label}` : 
+                                            `${otherNode.label} → <strong>${edge.label}</strong>`}
+                                <span class="badge badge-${otherNode.group} float-end">${otherNode.group}</span>
+                            </li>`;
+                        });
+                    } else {
+                        content += `<li class="list-group-item">无相关关系</li>`;
+                    }
+                    
+                    content += `</ul></div>`;
+                    
+                    contentElement.innerHTML = content;
+                    detailsSection.classList.remove('d-none');
+                }
+                
+                hideLoading();
+            }, 500);
+        }
+        
+        // 隐藏实体详情
+        function hideEntityDetails() {
+            document.getElementById('entity-details').classList.add('d-none');
+        }
+        
+        // 显示相关问题
+        function showRelatedQuestions(nodeId) {
+            const questionsContainer = document.getElementById('related-questions');
+            
+            // 模拟API调用
+            setTimeout(() => {
+                const node = graphData.nodes.find(n => n.id === nodeId);
+                
+                if (node) {
+                    let content = '<ul class="list-group">';
+                    
+                    // 根据实体类型生成相关问题
+                    if (node.group === 'competition') {
+                        content += `
+                            <li class="list-group-item">${node.label}的举办时间是什么？</li>
+                            <li class="list-group-item">${node.label}的主办方是谁？</li>
+                            <li class="list-group-item">${node.label}在哪里举办？</li>
+                            <li class="list-group-item">${node.label}的参赛对象有哪些？</li>
+                        `;
+                    } else if (node.group === 'organization') {
+                        content += `
+                            <li class="list-group-item">${node.label}主办了哪些比赛？</li>
+                            <li class="list-group-item">${node.label}的联系方式是什么？</li>
+                        `;
+                    } else if (node.group === 'time') {
+                        content += `
+                            <li class="list-group-item">${node.label}有哪些比赛？</li>
+                        `;
+                    } else if (node.group === 'location') {
+                        content += `
+                            <li class="list-group-item">${node.label}举办了哪些比赛？</li>
+                        `;
+                    }
+                    
+                    content += '</ul>';
+                    questionsContainer.innerHTML = content;
+                }
+            }, 300);
+        }
+        
+        // 隐藏相关问题
+        function hideRelatedQuestions() {
+            document.getElementById('related-questions').innerHTML = 
+                '<div class="alert alert-info">选择一个实体以查看相关问题</div>';
+        }
+        
+        // 搜索实体
+        function searchEntities(keyword) {
+            if (!keyword || keyword.trim() === '') {
+                document.getElementById('search-results').innerHTML = '';
+                return;
+            }
+            
+            const results = graphData.nodes.filter(node => 
+                node.label.toLowerCase().includes(keyword.toLowerCase())
+            );
+            
+            let resultsHtml = '';
+            
+            if (results.length > 0) {
+                results.forEach(node => {
+                    resultsHtml += `
+                        <div class="entity-item" data-id="${node.id}">
+                            ${node.label}
+                            <span class="badge badge-${node.group} float-end">${node.group}</span>
+                        </div>
+                    `;
+                });
+            } else {
+                resultsHtml = '<div class="p-3 text-center text-muted">未找到匹配实体</div>';
+            }
+            
+            document.getElementById('search-results').innerHTML = resultsHtml;
+            
+            // 添加点击事件
+            document.querySelectorAll('.entity-item').forEach(item => {
+                item.addEventListener('click', function() {
+                    const nodeId = this.getAttribute('data-id');
+                    network.selectNodes([nodeId]);
+                    network.focus(nodeId, {
+                        scale: 1.5,
+                        animation: true
+                    });
+                });
+            });
+        }
+        
+        // 应用关系过滤
+        function applyRelationFilters() {
+            const timeEnabled = document.getElementById('relation-time').checked;
+            const orgEnabled = document.getElementById('relation-org').checked;
+            const locationEnabled = document.getElementById('relation-location').checked;
+            const topicEnabled = document.getElementById('relation-topic').checked;
+            
+            // 重新加载图谱数据
+            loadGraphData(timeEnabled, orgEnabled, locationEnabled, topicEnabled);
+        }
+        
+        // 加载图谱数据
+        function loadGraphData(includeTime = true, includeOrg = true, includeLocation = true, includeTopic = true) {
+            showLoading();
+            
+            // 模拟从API获取数据
+            setTimeout(() => {
+                // 这里是模拟数据，实际应该从API获取
+                const mockData = {
+                    nodes: [
+                        { id: '1', label: '泰迪杯数据挖掘挑战赛', group: 'competition' },
+                        { id: '2', label: '2024年4月28日', group: 'time' },
+                        { id: '3', label: '泰迪科技', group: 'organization' },
+                        { id: '4', label: '北京市海淀区', group: 'location' },
+                        { id: '5', label: '中国人工智能学会', group: 'organization' },
+                        { id: '6', label: '人工智能应用', group: 'topic' },
+                        { id: '7', label: '智能客服机器人', group: 'task' },
+                        { id: '8', label: '人工智能综合创新专项赛', group: 'competition' },
+                        { id: '9', label: '2024年5月15日', group: 'time' },
+                        { id: '10', label: '上海市', group: 'location' },
+                        { id: '11', label: '张教授', group: 'person' }
+                    ],
+                    edges: []
+                };
+                
+                // 根据过滤选项添加边
+                if (includeTime) {
+                    mockData.edges.push(
+                        { from: '1', to: '2', label: '举办时间' },
+                        { from: '8', to: '9', label: '举办时间' }
+                    );
+                }
+                
+                if (includeOrg) {
+                    mockData.edges.push(
+                        { from: '1', to: '3', label: '主办方' },
+                        { from: '1', to: '5', label: '协办方' },
+                        { from: '8', to: '5', label: '主办方' }
+                    );
+                }
+                
+                if (includeLocation) {
+                    mockData.edges.push(
+                        { from: '1', to: '4', label: '举办地点' },
+                        { from: '8', to: '10', label: '举办地点' }
+                    );
+                }
+                
+                if (includeTopic) {
+                    mockData.edges.push(
+                        { from: '1', to: '6', label: '赛事主题' },
+                        { from: '1', to: '7', label: '赛题' },
+                        { from: '8', to: '6', label: '赛事主题' }
+                    );
+                }
+                
+                // 保存数据供搜索使用
+                graphData = mockData;
+                
+                // 如果网络已存在，销毁它
+                if (network) {
+                    network.destroy();
+                }
+                
+                // 初始化新网络
+                const { network: newNetwork } = initNetwork(mockData);
+                network = newNetwork;
+                
+                hideLoading();
+            }, 1000);
+        }
+        
+        // 页面加载完成后执行
+        document.addEventListener('DOMContentLoaded', function() {
+            // 加载图谱数据
+            loadGraphData();
+            
+            // 搜索按钮点击事件
+            document.getElementById('search-btn').addEventListener('click', function() {
+                const keyword = document.getElementById('search-input').value;
+                searchEntities(keyword);
+            });
+            
+            // 搜索框输入事件
+            document.getElementById('search-input').addEventListener('input', function() {
+                const keyword = this.value;
+                searchEntities(keyword);
+            });
+            
+            // 过滤按钮点击事件
+            document.getElementById('apply-filters').addEventListener('click', function() {
+                applyRelationFilters();
+            });
+            
+            // 缩放按钮事件
+            document.getElementById('zoom-in').addEventListener('click', function() {
+                network.zoom(1.2);
+            });
+            
+            document.getElementById('zoom-out').addEventListener('click', function() {
+                network.zoom(0.8);
+            });
+            
+            document.getElementById('reset-view').addEventListener('click', function() {
+                network.fit();
+            });
+        });
+        
+        // 在实际应用中，这里应该连接到后端API获取真实数据
+        // 以下是一个使用Fetch API从后端获取数据的示例
+        /*
+        async function fetchGraphData() {
+            showLoading();
+            try {
+                const response = await fetch('/api/knowledge-graph/data');
+                if (!response.ok) {
+                    throw new Error('网络错误');
+                }
+                const data = await response.json();
+                graphData = data;
+                initNetwork(data);
+            } catch (error) {
+                console.error('获取图谱数据失败:', error);
+                document.getElementById('graph-container').innerHTML = 
+                    '<div class="alert alert-danger m-3">获取知识图谱数据失败，请稍后再试</div>';
+            } finally {
+                hideLoading();
+            }
+        }
+        */
+    </script>
+</body>
+</html> 
